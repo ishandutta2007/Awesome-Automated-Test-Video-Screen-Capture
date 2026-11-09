@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Automated-Test-Video-Screen-Capture?style=for-the-badge&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -55,7 +55,7 @@ The global screen recording and video capture software market is estimated betwe
 
 A sorted ranking of leading open-source screen recording software, developer libraries, and screen capture tools, ordered in descending order by GitHub stargazers.
 
-| Project & Repo Link | Star Count | License | Platforms | Description & Highlights |
+| Project & Repo Link | Stars_Count | License | Platforms | Description & Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **OBS Studio**<br>[`obsproject/obs-studio`](https://github.com/obsproject/obs-studio) | [![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers) | GPL-2.0 | Windows, macOS, Linux | Dominant open-source broadcast, screen capture, and recording suite. Features high-performance real-time video/audio capturing, scene composition, and plugin extensibility without limits. |
 | **ShareX**<br>[`ShareX/ShareX`](https://github.com/ShareX/ShareX) | [![Stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social&color=white)](https://github.com/ShareX/ShareX/stargazers) | GPL-3.0 | Windows | Legendary free and open-source screen capture, file sharing, and productivity tool. Supports screen recording (FFmpeg/GIF), scrolling capture, annotations, and automated upload workflows. |
